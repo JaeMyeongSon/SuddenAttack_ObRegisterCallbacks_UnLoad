@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.975,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.012,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.578,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.910,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.626,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.411,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020-04-03 21:35:45.190,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020-04-03 21:42:30.043,=D:\20190322 backup\개발\로그인_코드발급기\코드발급기\WinHttp_TLB.pas</Transaction>
+    <Transaction>2020-04-03 21:56:17.634,D:\20190322 backup\개발\SAUNLOADM\Unit2.dfm=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020-04-03 21:56:17.634,D:\20190322 backup\개발\SAUNLOADM\Unit2.pas=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020-04-03 21:56:19.642,D:\20190322 backup\개발\SAUNLOADM\Project2.dproj=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
