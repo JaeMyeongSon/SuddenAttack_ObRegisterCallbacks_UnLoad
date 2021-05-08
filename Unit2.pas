@@ -26,8 +26,8 @@ implementation
 
 procedure TForm2.Button1Click(Sender: TObject);
 begin
-ShellExecute(Form2.HANDLE, 'OPEN', 'cmd.exe', '/C sc create Memory binpath= C:\Windows\KodeMonL.sys type= kernel', Nil, SW_HIDE);     //성능  sc start Memory
-ShellExecute(Form2.HANDLE, 'OPEN', 'cmd.exe', '/C sc start Memory', Nil, SW_HIDE);     //성능
+ShellExecute(Form2.HANDLE, 'OPEN', 'cmd.exe', '/C sc create Memory binpath= C:\Windows\KodeMonL.sys type= kernel', Nil, SW_HIDE);     
+ShellExecute(Form2.HANDLE, 'OPEN', 'cmd.exe', '/C sc start Memory', Nil, SW_HIDE);   
 end;
 
 end.
